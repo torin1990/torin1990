@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @torin1990
+- 👀 I’m interested in data analytics, web programming, development of databases and applications (for example, for animal husbandry)
+- 🌱 I’m currently learning laravel, python
+- 📫 How to reach me sergey.torin90@gmail.com
